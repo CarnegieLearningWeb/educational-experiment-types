@@ -1,3 +1,6 @@
+## This code has been moved to https://github.com/CarnegieLearningWeb/UpGrade.git
+Under the types/ directory
+
 # Enums Exported
 
 - **CONSISTENCY_RULE**
